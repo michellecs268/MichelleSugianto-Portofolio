@@ -12,6 +12,14 @@
 
 ## Forage Job Simulation (Virtual Internship)
 
+PwC US Cyber Security Consulting Job Simulation on Forage - July 2025
+ - Completed a job simulation focused on a cybersecurity risk assessment for PwC
+ - Determined if controls were missing from a process and identified risks
+   associated with those gaps
+ - Completed a Test of Design and Operating Effectiveness documentation
+ - Created a one-slide summary to present findings
+
+
 Deloitte Australia Cyber Job Simulation on Forage - July 2025
 - Completed a job simulation involving reading web activity logs
 - Supported a client in a cyber security breach
