@@ -6,9 +6,6 @@
 - <a href="https://github.com/michellecs268/IntrusionDetectionSystem">Email Intrusion Detection System</a>
 - <a href="https://github.com/michellecs268/ArpSpoofer.git">ARP Spoofer</a>
 
-## Other
-- Adversarial Attacks
-- Ethical Hacking
 
 ## Forage Job Simulation (Virtual Internship)
 
